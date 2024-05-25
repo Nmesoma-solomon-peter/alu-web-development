@@ -2,4 +2,4 @@ This is an HTML Advanced project at alu, in this project, I will be creating the
 
 <!-- <h1> this is what the website would look like after completing it</h1> -->
 
-<img src="./assets/images/background.png" alt="site image"/>
+<img src="./assets/images/logo.png" alt="site image"/>
